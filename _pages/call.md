@@ -73,7 +73,7 @@ nav_order: 6
 
 <li><p align="justify">Each abstract must have a title, the names and affiliations of authors, their contact details, the abstract body, and five keywords. Please download this <a href="https://docs.google.com/document/d/1kzvgc1P2Id_4b5_bvNzSsvjvyzYejDeQILXRncgZlHY/edit" target="_blank">template</a> while preparing the abstract. To download the template, please navigate to File → Download → Microsoft Word (.docx).</p></li>
 
-<li>>We recommend authors have references for key claims in the abstract. In-text citations and references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) guidelines<a>.</li>
+<li>We recommend authors have references for key claims in the abstract. In-text citations and references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) guidelines<a>.</li>
 
 <li><p align="justify">The abstract must include a brief context, the key argument, and the evidence that the author will provide for the same. For papers that report empirical studies, please provide a brief summary of the methodology and the findings.</p></li>
 
