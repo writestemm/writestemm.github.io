@@ -56,7 +56,7 @@ nav_order: 6
 
 <li> <h2 class="post-title" style="color:DarkMagenta;"><b>Frameworks for developing reading-writing curricula for STEMM disciplines in India</b></h2>
 
-<p align="justify">What are the key factors that one must account for while designing STEMM-specific reading-writing courses? What should be the curricular and pedagogical approaches that such courses must adopt? How are STEMM-specific reading-writing courses different from such courses in other disciplines?<</p>/li>
+<p align="justify">What are the key factors that one must account for while designing STEMM-specific reading-writing courses? What should be the curricular and pedagogical approaches that such courses must adopt? How are STEMM-specific reading-writing courses different from such courses in other disciplines?</p></li>
 
 <li> <h2 class="post-title" style="color:DarkMagenta;"><b>Empirical investigations into reading and writing in STEMM</b></h2>
 
@@ -73,11 +73,11 @@ nav_order: 6
 
 <li><p align="justify">Each abstract must have a title, the names and affiliations of authors, their contact details, the abstract body, and five keywords. Please download this <a href="https://docs.google.com/document/d/1kzvgc1P2Id_4b5_bvNzSsvjvyzYejDeQILXRncgZlHY/edit" target="_blank">template</a> while preparing the abstract. To download the template, please navigate to File → Download → Microsoft Word (.docx).</p></li>
 
-<li><p align="justify">We recommend authors have references for key claims in the abstract. In-text citations and references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) guidelines<a>.</p></li>
+<li>>We recommend authors have references for key claims in the abstract. In-text citations and references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) guidelines<a>.</li>
 
 <li><p align="justify">The abstract must include a brief context, the key argument, and the evidence that the author will provide for the same. For papers that report empirical studies, please provide a brief summary of the methodology and the findings.</p></li>
 
-<li><p align="justify">Abstracts should be between 300-500 words. Multiple paragraphs are allowed and encouraged.</p></li>
+<li>Abstracts should be between 300-500 words. Multiple paragraphs are allowed and encouraged.</li>
 </ul>
 
  <h1 class="post-title" style="color:DarkMagenta;"><b>Format of the Symposium</b></h1>
@@ -91,7 +91,7 @@ nav_order: 6
 
 <li> <p align="justify">The symposium will be a forum where authors present their working papers to a peer community, and seek feedback on their work.</p></li>
 
-<li> <p align="justify">The symposium will have dedicated workshop sessions on academic writing that will aid the authors develop their manuscripts for submission.</p></li>
+<li> <p align="justify">The symposium will have dedicated workshop sessions on academic writing that will aid the authors develop their manuscripts for submission.</p>
 
 <p align="justify">Note: Manuscripts that are selected for potential publication to the special issue will be contacted separately for details of the peer review process and publication process.</p></li>
 

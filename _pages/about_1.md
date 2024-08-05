@@ -1,0 +1,3 @@
+The <a href="https://www.krea.ac.in/cwp/" target="_blank">Centre for Writing and Pedagogy</a> and the <a href="https://krea.edu.in/sias/mathematics-at-krea/" target="_blank">Mathematics Discpline</a> at the <a href="https://krea.edu.in/sias/" target="_blank">School of Interwoven Arts and Sciences, Krea University</a> are jointly organizing a Symposium on <b>"Reflection on the Teaching of Reading and Writing in STEMM"</b> from <b>17-19 January 2025</b>. The Symposium will feature Wprking Paper Presentations on the themes of pedagogical and curriculur developments being made in the field of reading and writing courses in STEMM. 
+
+To start off the proceedings, an internationally renowned scholar on science writing and communcation will present a keynote talk.
