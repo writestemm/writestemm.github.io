@@ -1,0 +1,7 @@
+Sayantan Datta (they/them) is an Assistant Professor of Practice at the Centre for Writing and Pedagogy, Krea University, and an award-winning science journalist. Originally trained as a neuroscientist, their research and writing interests now lie at the intersections of science, gender, sexuality, caste, and health. They write two columns periodically: one with The Wire (Science) on Science and Gender and another with The News Minute (called The Next Wave) that focuses on contemporary debates around gender and sexuality.
+
+The thematic focuses of Sayantan’s research are gender and sexuality, science education, and science journalism practice. They are particularly interested in documenting and understanding the experiences of gender- and sexually marginalized groups in the Indian science ecosystem. 
+
+For their report on gendered hostels in Indian science institutions, Sayantan was awarded the 13th Laadli Media & Advertising Awards for Gender Sensitivity in 2023. Further, their children’s book, The Plant Whisperer (Pratham Books), was featured in Tata Trusts’ Parag Honour List 2023 and shortlisted for the Green Literature Festival Honour List (Category: Children’s Books) 2023.
+
+Sayantan’s work has been supported previously by the National Association for Science Writers, USA, the Transforming Education for Sustainable Futures-India project, and the G3: Genderalities and Work grant from the reFrame Institute of Art and Expression.
