@@ -22,7 +22,7 @@ profiles:
     
   - align: right
     image: VT.png
-    content: about_Vivek.md
+    content: about_vivek.md
     image_circular: false # crops the image to make it circular
 
 ---
