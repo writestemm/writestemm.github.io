@@ -1,6 +1,6 @@
 Selected abstracts will be invited to develop working papers to be presented at the Symposium.
 
-The Symposium will also feature Academic Writing Workshops to refine these Working Papers for possible publication in the September 2026 Special Issue of <b>"Contemporary Education Dialogue" (SAGE)</b>.
+<p align="justify">The Symposium will also feature Academic Writing Workshops to refine these Working Papers for possible publication in the September 2026 Special Issue of <b>"Contemporary Education Dialogue" (SAGE)</b>.</p>
 
 <h2 style="color:DarkMagenta;"><b>Important Dates</b></h2>
 
@@ -11,4 +11,4 @@ The Symposium will also feature Academic Writing Workshops to refine these Worki
 <li>Symposium Dates : 17-19 January 2025</li>
 </ul>
 
-The Symposium will also feature a keynote address by an international scholar engaged in Mathematics Education.
+The Symposium will also feature a keynote address by an international scholar engaged in Mathematics Education. Further details on the Symposium may be found in the <a href="https://docs.google.com/document/d/1LJFpxSKgrY4s2fhH_jOJV5Vrf5J-tXBNrdxduzWyIZI/edit?usp=sharing" target="_blank">Concept Note</a>.
