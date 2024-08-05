@@ -71,7 +71,7 @@ Potential presenters at the symposium are advised to follow the guidelines below
 <ul>
 <li> Please submit your abstract as a PDF document using this <a href="https://forms.gle/TRG6sBLdEkyAL56E8" target="_blank">Google Form</a>.</li>
 
-<li> Each abstract must have a title, the names and affiliations of authors, their contact details, the abstract body, and five keywords. Please download this <a href"https://docs.google.com/document/d/1kzvgc1P2Id_4b5_bvNzSsvjvyzYejDeQILXRncgZlHY/edit" target="_blank">template</a> while preparing the abstract. To download the template, please navigate to File → Download → Microsoft Word (.docx).</li>
+<li> Each abstract must have a title, the names and affiliations of authors, their contact details, the abstract body, and five keywords. Please download this <a href="https://docs.google.com/document/d/1kzvgc1P2Id_4b5_bvNzSsvjvyzYejDeQILXRncgZlHY/edit" target="_blank">template</a> while preparing the abstract. To download the template, please navigate to File → Download → Microsoft Word (.docx).</li>
 
 <li> We recommend authors have references for key claims in the abstract. In-text citations and references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) guidelines<a>.</li>
 
@@ -98,7 +98,7 @@ Note: Manuscripts that are selected for potential publication to the special iss
 <li> The coordinators are trying to organize funds to pay each presenter a token honorarium. This is subject to successful mobilization of funds.</li>
 
 
- <h1 class="post-title" style="color:DarkMagenta;"><b>Important Information</b></h1>
+<h1 class="post-title" style="color:DarkMagenta;"><b>Important Information</b></h1>
 
 <ul>
 <li> By submitting your abstract, you commit to submitting the working paper by the deadline mentioned in this concept note, and are willing to have your working paper considered for potential publication in the 2026 special issue of Contemporary Education Dialogue.</li>
@@ -113,7 +113,7 @@ Note: Manuscripts that are selected for potential publication to the special iss
  <h1 class="post-title" style="color:DarkMagenta;"><b>References</b></h1>
 
 <ul>
-<li>Ministry of Science and Technology, Government of India. (2021). <a href"https://dst.gov.in/sites/default/files/STIP_Doc_1.4_Dec2020.pdf" target="_blank">Science, Technology, and Innovation Policy version 1.4.</a> Retrieved July 16, 2024.</li>
+<li>Ministry of Science and Technology, Government of India. (2021). <a href="https://dst.gov.in/sites/default/files/STIP_Doc_1.4_Dec2020.pdf" target="_blank">Science, Technology, and Innovation Policy version 1.4.</a> Retrieved July 16, 2024.</li>
 
 <li>Shepherd, M.D., Selden, A., & Selden, J. (2009). <a href="https://files.eric.ed.gov/fulltext/ED518599.pdf" target="_blank">Difficulties first-year university students have in reading their mathematics textbooks.</a> Technical Report. No. 2009-1. Department of Mathematics, Tennessee Technological University. Retrieved July 16, 2024.</li>
 </ul>
