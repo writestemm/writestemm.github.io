@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /trial/
+permalink: /
 subtitle: 
 
 profile:
