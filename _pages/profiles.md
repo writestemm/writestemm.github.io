@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
-description: Organizers of the Symposium
+title: people
+description: members of the lab or group
 nav: true
 nav_order: 7
 
