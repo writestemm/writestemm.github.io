@@ -1,25 +1,21 @@
 ---
 layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+title: About
+permalink: /trial/
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Centre for Writing and Pedagogy and the Mathematics Discpiline at the School of Interwoven Arts and Sciences, Krea University are jointly organizing a Symposium on "Reflection on the Teaching of Reading and Writing in STEMM" from 17-19 January 2025. The Symposium will feature Wprking Paper Presentations on the themes of pedagogical and curriculur developments being made in the field of reading and writing courses in STEMM. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The Symposium will also feature Academic Writing Workshops to refine these Working Papers for possible publication in the September 2026 Special Issue of "Contemporary Education Dialogue" (SAGE).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+To start off the proceedings, an internationally renowned scholar on science writing and communcation will present a keynote talk.
