@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Membes of the Organizing Committee
+description: Members of the Organizing Committee
 nav: true
 nav_order: 7
 
