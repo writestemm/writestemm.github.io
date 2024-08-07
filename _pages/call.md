@@ -5,7 +5,7 @@ title: Call for Abstracts
 nav: true
 nav_order: 6
 toc:
-  beginning: true
+  sidebar: left
 typograms: true
 ---
 
