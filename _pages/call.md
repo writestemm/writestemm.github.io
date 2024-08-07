@@ -15,9 +15,6 @@ Responding to the opportunity posited by these happenings, the Centre for Writin
 The reflections of this cohort would generate a body of empirical and theoretical knowledge that precipitates critical conversations on curricular & pedagogical aspects of teaching reading and writing skills in STEMM, and teaching disciplinary knowledge by attending to reading and writing practices within these disciplines.
 A subset of presentations at the symposium will be considered for publication in a 2026 special issue of the Contemporary Education Dialogue (SAGE).
 Note: Educators and practitioners with expertise in any discipline and who have taught reading and writing courses in STEMM are welcome to submit their abstracts. Further, while we recognize the importance of teaching reading-writing in school education contexts, owing to logistical constraints, this symposium – and the subsequent special issue – focuses on the teaching of reading-writing in STEMM in higher education (undergraduate and above) contexts.
- 
-  - title:  Call for Abstracts
-   content: Hello
 
 ---
 
