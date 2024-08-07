@@ -10,7 +10,7 @@ toc:
 
 >The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" is underway.
 
-## Concept Note
+## **Concept Note**
 
 The science, technology, engineering, mathematics, and medicine (STEMM) ecosystem in India is increasingly recognizing the importance of teaching its learners and practitioners how to read and write within and across disciplines. For example, the government of India’s draft Science, Technology and Innovation Policy (STIP; 2021) declares an intention to introduce science communication courses at “all levels of education” (p. 44), and the incorporation of science communication skill sets (which presumably include reading and writing in different genres) across different levels of scientific training. Notably, for the STIP, ‘science communication’ is not limited to the transmission of scientific knowledge to non-expert audiences. Instead, the STIP offers a definition of science communication that comprises both science “outreach” and “inreach” (p. 43); while the former constitutes the communication of science to non-expert audiences through science popularization activities and science journalism, the latter includes communicating scientific findings to expert audiences. In other words, a contemporary learner and practitioner of STEMM would soon be expected to be trained in reading and writing skills that enable one to communicate effectively both within and beyond disciplinary silos.
 
@@ -26,38 +26,42 @@ The reflections of this cohort would generate a body of empirical and theoretica
 
 A subset of presentations at the symposium will be considered for publication in a 2026 special issue of the Contemporary Education Dialogue (SAGE).
 
-Note: Educators and practitioners with expertise in any discipline and who have taught reading and writing courses in STEMM are welcome to submit their abstracts. Further, while we recognize the importance of teaching reading-writing in school education contexts, owing to logistical constraints, this symposium – and the subsequent special issue – focuses on the teaching of reading-writing in STEMM in higher education (undergraduate and above) contexts.
+> #####Note
+>
+>Educators and practitioners with expertise in any discipline and who have taught reading and writing courses >in STEMM are welcome to submit their abstracts. Further, while we recognize the importance of teaching >reading-writing in school education contexts, owing to logistical constraints, this symposium – and the >subsequent special issue – focuses on the teaching of reading-writing in STEMM in higher education >(undergraduate and above) contexts.
+{: .block-tip }
 
-## Call for Abstracts
 
-The coordinators invite abstracts from scholars and practitioners involved in the designing, execution, and teaching of reading- and writing-oriented courses in STEMM. Scholars and practitioners who are interested in the topic but have not designed, executed or taught such courses are also welcome to contribute abstracts, although the coordinators will prioritize the former while selecting abstracts.
+## **Call for Abstracts**
 
-Potential contributions might address the following themes. This is an indicative list, and the coordinators welcome abstracts discussing other important aspects of teaching reading and writing in STEMM institutions/disciplines that are not mentioned in the list below.
+> The coordinators invite abstracts from scholars and practitioners involved in the designing, execution, and >teaching of reading- and writing-oriented courses in STEMM. Scholars and practitioners who are interested in >the topic but have not designed, executed or taught such courses are also welcome to contribute abstracts, >although the coordinators will prioritize the former while selecting abstracts.
+{: .block-warning }
 
-- **Curricular and pedagogical reflections on teaching reading and/or writing in STEMM**: If you have taught a reading-writing course in STEMM, what are the curricular and pedagogical choices you made while designing and executing your course? What frameworks and intentions guided these choices? What were the challenges and successes of the course?
-- **Sketching the STEMM reading-writing teacher**: Who is the STEMM reading-writing teacher in an Indian context? What makes them take up the teaching of reading and writing in lieu of or in addition to teaching courses in domains of their disciplinary expertise? Do gender, caste, class, sexuality, ability, etc. contribute to who takes up the role of teaching reading-writing in STEMM? What is the relationship of the STEMM reading-writing teacher with ideas of merit, scientific ability, and science identity?
-- **Uses and abuses of generative AI**
-How has the growth of generative AI technologies changed reading-writing practices in STEMM? What are the challenges and possibilities that the generative AI boom opens up in the context of teaching reading-writing in STEMM?
-- **Role of reading-writing in domain-specific STEMM knowledge**: Are reading-writing only secondary activities in STEMM contexts, or can the teaching of reading-writing also precipitate better engagement with disciplinary knowledge?
-- **Interdisciplinary reflections**: What disciplines have a stake in the teaching of reading-writing in STEMM? What is the role, if any, of a STEMM training in the teaching of reading-writing in STEMM?
-- **Frameworks for developing reading-writing curricula for STEMM disciplines in India**: What are the key factors that one must account for while designing STEMM-specific reading-writing courses? What should be the curricular and pedagogical approaches that such courses must adopt? How are STEMM-specific reading-writing courses different from such courses in other disciplines?
-- **Empirical investigations into reading and writing in STEMM**: If you have conducted a qualitative or quantitative study of how STEMM learners and practitioners read and write, what did you find? How can your findings catalyze more effective STEMM reading-writing courses?
+>Potential contributions might address the following themes. This is an indicative list, and the coordinators >welcome abstracts discussing other important aspects of teaching reading and writing in STEMM institutions/>disciplines that are not mentioned in the list below.
+>
+>- **Curricular and pedagogical reflections on teaching reading and/or writing in STEMM**: If you have taught a >reading-writing course in STEMM, what are the curricular and pedagogical choices you made while designing and >executing your course? What frameworks and intentions guided these choices? What were the challenges and >successes of the course?
+>- **Sketching the STEMM reading-writing teacher**: Who is the STEMM reading-writing teacher in an Indian >context? What makes them take up the teaching of reading and writing in lieu of or in addition to teaching >courses in domains of their disciplinary expertise? Do gender, caste, class, sexuality, ability, etc. >contribute to who takes up the role of teaching reading-writing in STEMM? What is the relationship of the >STEMM reading-writing teacher with ideas of merit, scientific ability, and science identity?
+>- **Uses and abuses of generative AI**
+>How has the growth of generative AI technologies changed reading-writing practices in STEMM? What are the >challenges and possibilities that the generative AI boom opens up in the context of teaching reading-writing >in STEMM?
+>- **Role of reading-writing in domain-specific STEMM knowledge**: Are reading-writing only secondary >activities in STEMM contexts, or can the teaching of reading-writing also precipitate better engagement with >disciplinary knowledge?
+>- **Interdisciplinary reflections**: What disciplines have a stake in the teaching of reading-writing in >STEMM? What is the role, if any, of a STEMM training in the teaching of reading-writing in STEMM?
+>- **Frameworks for developing reading-writing curricula for STEMM disciplines in India**: What are the key >factors that one must account for while designing STEMM-specific reading-writing courses? What should be the >curricular and pedagogical approaches that such courses must adopt? How are STEMM-specific reading-writing >courses different from such courses in other disciplines?
+>- **Empirical investigations into reading and writing in STEMM**: If you have conducted a qualitative or >quantitative study of how STEMM learners and practitioners read and write, what did you find? How can your >findings catalyze more effective STEMM reading-writing courses?
+{: .block-danger }
 
-## **Guidelines for Abstract Submission**
+> ##### **Guidelines for Abstract Submission**
+>
+>```typograms
+>+--<p align="justify">Potential presenters at the symposium are advised to follow the guidelines below while >submitting their abstracts. Abstracts that do not follow the guidelines provided will be summarily rejected.</>p>
+>+--Please submit your abstract as a PDF document using this <a href="https://forms.gle/TRG6sBLdEkyAL56E8" >target="_blank">Google Form</a>.
+>+--<p align="justify">Each abstract must have a title, the names and affiliations of authors, their contact >details, the abstract body, and five keywords. Please download this <a href="https://docs.google.com/document/>d/1kzvgc1P2Id_4b5_bvNzSsvjvyzYejDeQILXRncgZlHY/edit" target="_blank">template</a> while preparing the >abstract. To download the template, please navigate to File → Download → Microsoft Word (.docx).</p>
+>+--<p align="justify">We recommend authors have references for key claims in the abstract. In-text citations and >references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/>apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) >guidelines</a>.</p>
+>+--<p align="justify">The abstract must include a brief context, the key argument, and the evidence that the >author will provide for the same. For papers that report empirical studies, please provide a brief summary of >the methodology and the findings.</p>
+>+--Abstracts should be between 300-500 words. Multiple paragraphs are allowed and encouraged.
+>```
+>{: .block-tip }
 
-<p align="justify">Potential presenters at the symposium are advised to follow the guidelines below while submitting their abstracts. Abstracts that do not follow the guidelines provided will be summarily rejected.</p>
 
-<ul>
-<li> Please submit your abstract as a PDF document using this <a href="https://forms.gle/TRG6sBLdEkyAL56E8" target="_blank">Google Form</a>.</li>
-
-<li><p align="justify">Each abstract must have a title, the names and affiliations of authors, their contact details, the abstract body, and five keywords. Please download this <a href="https://docs.google.com/document/d/1kzvgc1P2Id_4b5_bvNzSsvjvyzYejDeQILXRncgZlHY/edit" target="_blank">template</a> while preparing the abstract. To download the template, please navigate to File → Download → Microsoft Word (.docx).</p></li>
-
-<li><p align="justify">We recommend authors have references for key claims in the abstract. In-text citations and references must be organized according to the <a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html" target="_blank">APA (7th Edition) guidelines</a>.</p></li>
-
-<li><p align="justify">The abstract must include a brief context, the key argument, and the evidence that the author will provide for the same. For papers that report empirical studies, please provide a brief summary of the methodology and the findings.</p></li>
-
-<li>Abstracts should be between 300-500 words. Multiple paragraphs are allowed and encouraged.</li>
-</ul>
 
 ## **Format of the Symposium**
 
@@ -89,7 +93,7 @@ How has the growth of generative AI technologies changed reading-writing practic
 <li> <p align="justify">Acceptance of abstracts or consideration of working papers for development into full manuscripts for the special issue does not guarantee publication in the special issue. The final call for the suitability of the manuscript lies with the editors of Contemporary Education Dialogue, and their decision will be final and binding.</p></li>
 </ul>
 
-## **References**
+### **References**
 
 <ul>
 <li>Ministry of Science and Technology, Government of India. (2021). <a href="https://dst.gov.in/sites/default/files/STIP_Doc_1.4_Dec2020.pdf" target="_blank">Science, Technology, and Innovation Policy version 1.4.</a> Retrieved July 16, 2024.</li>
