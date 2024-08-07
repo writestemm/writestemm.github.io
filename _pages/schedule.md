@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /schedule/
 title: Schedule
 nav: true
@@ -31,12 +31,3 @@ profiles:
     image_circular: false # crops the image to make it circular
     
 ---
-
-<h2 style="color:DarkMagenta;"><b>Important Dates</b></h2>
-
-````typograms
-+-- Submission Deadline : September 30, 2024
-+-- Notification Date : October 15, 2024
-+-- Working Paper Submissions : December 30, 2024
-`-- Symposium Dates : 17-19 January 2025
-````
