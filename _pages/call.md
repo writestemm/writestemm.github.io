@@ -6,35 +6,11 @@ description: Submit your Abstracts now!
 nav: true
 nav_order: 6
 accordion: 
-  - title:  <h1 style="color:DarkMagenta;"><b>Concept Note</b></h1>
-    content: <p align="justify">The science, technology, engineering, mathematics, and medicine (STEMM) ecosystem in India is increasingly recognizing the importance of teaching its learners and practitioners how to read and write within and across disciplines. For example, the government of India’s draft Science, Technology and Innovation Policy (STIP; 2021) declares an intention to introduce science communication courses at “all levels of education” (p. 44), and the incorporation of science communication skill sets (which presumably include reading and writing in different genres) across different levels of scientific training. Notably, for the STIP, ‘science communication’ is not limited to the transmission of scientific knowledge to non-expert audiences. Instead, the STIP offers a definition of science communication that comprises both science “outreach” and “inreach” (p. 43); while the former constitutes the communication of science to non-expert audiences through science popularization activities and science journalism, the latter includes communicating scientific findings to expert audiences. In other words, a contemporary learner and practitioner of STEMM would soon be expected to be trained in reading and writing skills that enable one to communicate effectively both within and beyond disciplinary silos.</p>
-<p align="justify">Other than policy considerations, reading and writing are important for learners & practitioners of STEMM to participate effectively in their disciplines: be it reading literature to identify research questions, reading textbooks as a part of their STEMM education, or to communicate their findings to other practitioners and to members of the public. And yet, there is evidence indicating STEMM learners’ and practitioners’ struggle with these skills. For example, in the context of mathematics education, it has been reported that undergraduate students of mathematics are unable to effectively read their textbooks, and that the difficulties they face in reading and comprehending these textbooks result primarily from the inefficacy of the reading strategies they employ (Shepherd et al., 2009). Thus, in addition to communication skills, training STEMM learners in reading and writing might benefit their engagement with their discipline.</p>
-<p align="justify">While work on reading strategies that can alleviate challenges such as the one mentioned above is scant, the increased recognition of the importance of science in- and out-reach has propelled several STEMM higher-education institutions (HEIs) to instate science writing and communication courses. The scope and curriculum of these courses vary considerably, as do their duration, their target audience, and the expertise required of the instructors. The impetus towards reading- and writing-oriented courses in STEMM HEIs, and the diversity in the nature and execution of these courses, provides an opportunity for the STEMM ecosystem to deliberate on the successes and failures of different pedagogical approaches adopted by these courses. </p>
-<p align="justify">In addition, reading and writing practices in all disciplines, including STEMM, are being tested and transformed rapidly by generative AI technologies. Given that the spurt of generative AI coincides somewhat with the time when the Indian STEMM ecosystem is paying attention to reading and writing practices of its learners and practitioners, it becomes pertinent to ask whether and how reading- and writing-oriented courses in Indian STEMM HEIs are responding to the impacts of generative AI on reading and writing practices.</p>
-<p align="justify">Responding to the opportunity posited by these happenings, the Centre for Writing & Pedagogy and the Mathematics Discipline, School of Interwoven Arts and Sciences, Krea University, are collaborating to host a three-day international symposium on “Reflections on Teaching Reading & Writing in STEMM”. This symposium seeks to bring together an international cohort of scholars and practitioners engaged in the teaching of reading- and writing-oriented courses in STEMM disciplines, as well as courses that focus on reading and writing practices to teach domain knowledge. </p>
-<p align="justify">The reflections of this cohort would generate a body of empirical and theoretical knowledge that precipitates critical conversations on curricular & pedagogical aspects of teaching reading and writing skills in STEMM, and teaching disciplinary knowledge by attending to reading and writing practices within these disciplines. </p>
-<p align="justify">A subset of presentations at the symposium will be considered for publication in a 2026 special issue of the Contemporary Education Dialogue (SAGE).</p>
-<p align="justify">Note: Educators and practitioners with expertise in any discipline and who have taught reading and writing courses in STEMM are welcome to submit their abstracts. Further, while we recognize the importance of teaching reading-writing in school education contexts, owing to logistical constraints, this symposium – and the subsequent special issue – focuses on the teaching of reading-writing in STEMM in higher education (undergraduate and above) contexts.</p>
+  - title:  Concept Note
+    content: call1.md
  
-  - title:  <h1 style="color:DarkMagenta;"><b>Call for Abstracts</b></h1>
-    content: <p align="justify">The coordinators invite abstracts from scholars and practitioners involved in the designing, execution, and teaching of reading- and writing-oriented courses in STEMM. Scholars and practitioners who are interested in the topic but have not designed, executed or taught such courses are also welcome to contribute abstracts, although the coordinators will prioritize the former while selecting abstracts.</p>
-<p align="justify">Potential contributions might address the following themes. This is an indicative list, and the coordinators welcome abstracts discussing other important aspects of teaching reading and writing in STEMM institutions/disciplines that are not mentioned in the list below.</p>
-<ul>
-<li>  <h2 style="color:DarkMagenta;"><b>Curricular and pedagogical reflections on teaching reading and/or writing in STEMM</b></h2>
-<p align="justify">If you have taught a reading-writing course in STEMM, what are the curricular and pedagogical choices you made while designing and executing your course? What frameworks and intentions guided these choices? What were the challenges and successes of the course?</p></li>
-<li>  <h2 style="color:DarkMagenta;"><b>Sketching the STEMM reading-writing teacher</b></h2>
-<p align="justify">Who is the STEMM reading-writing teacher in an Indian context? What makes them take up the teaching of reading and writing in lieu of or in addition to teaching courses in domains of their disciplinary expertise? Do gender, caste, class, sexuality, ability, etc. contribute to who takes up the role of teaching reading-writing in STEMM? What is the relationship of the STEMM reading-writing teacher with ideas of merit, scientific ability, and science identity?</p></li>
-<li> <h2 style="color:DarkMagenta;"><b>Uses and abuses of generative AI</b></h2>
-<p align="justify">How has the growth of generative AI technologies changed reading-writing practices in STEMM? What are the challenges and possibilities that the generative AI boom opens up in the context of teaching reading-writing in STEMM?</p></li>
-<li> <h2 style="color:DarkMagenta;"><b>Role of reading-writing in domain-specific STEMM knowledge</b></h2>
-<p align="justify">Are reading-writing only secondary activities in STEMM contexts, or can the teaching of reading-writing also precipitate better engagement with disciplinary knowledge?</p></li>
-<li> <h2 style="color:DarkMagenta;"><b>Interdisciplinary reflections</b></h2>
-<p align="justify">What disciplines have a stake in the teaching of reading-writing in STEMM? What is the role, if any, of a STEMM training in the teaching of reading-writing in STEMM?</p></li>
-<li> <h2 style="color:DarkMagenta;"><b>Frameworks for developing reading-writing curricula for STEMM disciplines in India</b></h2>
-<p align="justify">What are the key factors that one must account for while designing STEMM-specific reading-writing courses? What should be the curricular and pedagogical approaches that such courses must adopt? How are STEMM-specific reading-writing courses different from such courses in other disciplines?</p></li>
-<li> <h2 style="color:DarkMagenta;"><b>Empirical investigations into reading and writing in STEMM</b></h2>
-<p align="justify">If you have conducted a qualitative or quantitative study of how STEMM learners and practitioners read and write, what did you find? How can your findings catalyze more effective STEMM reading-writing courses?</p></li>
-</ul>
+  - title:  Call for Abstracts
+   content: call2.md
 
 ---
 
@@ -42,14 +18,7 @@ accordion:
 
 {% include accordion.html %}
 
-
-
-
-
-
-
-
- <h1 class="post-title" style="color:DarkMagenta;"><b>Guidelines for Abstract Submission</b></h1>
+<h1 class="post-title" style="color:DarkMagenta;"><b>Guidelines for Abstract Submission</b></h1>
 
 <p align="justify">Potential presenters at the symposium are advised to follow the guidelines below while submitting their abstracts. Abstracts that do not follow the guidelines provided will be summarily rejected.</p>
 
