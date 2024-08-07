@@ -6,10 +6,14 @@ nav: true
 nav_order: 6
 toc:
   sidebar: left
-typograms: true
 ---
 
 > The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" is underway.
+
+> ##### **POSTER**
+>
+>    <div> {% include figure.liquid loading="eager" path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %} </div>
+{: .block-tip }
 
 > ##### **CONCEPT NOTE**
 >
@@ -27,7 +31,7 @@ typograms: true
 > <p>&nbsp;</p>
 > A subset of presentations at the symposium will be considered for publication in a 2026 special issue of the Contemporary Education Dialogue (SAGE).
 > <p>&nbsp;</p>
-> ##### NOTE
+>  **NOTE**
 >
 > Educators and practitioners with expertise in any discipline and who have taught reading and writing courses  in STEMM are welcome to submit their abstracts. Further, while we recognize the importance of teaching reading-writing in school education contexts, owing to logistical constraints, this symposium – and the subsequent special issue – focuses on the teaching of reading-writing in STEMM in higher education (undergraduate and above) contexts.
 {: .block-warning }
@@ -48,7 +52,7 @@ typograms: true
 > - **Empirical investigations into reading and writing in STEMM**: If you have conducted a qualitative or quantitative study of how STEMM learners and practitioners read and write, what did you find? How can your findings catalyze more effective STEMM reading-writing courses?
 {: .block-danger }
 
-> ##### **Guidelines for Abstract Submission**
+> ##### **GUIDELINES FOR ABSTRACT SUBMISSION**
 >
 > - Potential presenters at the symposium are advised to follow the guidelines below while submitting their abstracts. Abstracts that do not follow the guidelines provided will be summarily rejected.
 > - Please submit your abstract as a PDF document using this <a href="https://forms.gle/TRG6sBLdEkyAL56E8" target="_blank">Google Form</a>.
@@ -70,7 +74,7 @@ typograms: true
 > - The coordinators are trying to organize funds to pay each presenter a token honorarium. This is subject to successful mobilization of funds.
 {: .block-warning }
 
-> ##### **Important Information**
+> ##### **IMPORTANT INFORMATION**
 >
 > - By submitting your abstract, you commit to submitting the working paper by the deadline mentioned in this concept note, and are willing to have your working paper considered for potential publication in the 2026 special issue of Contemporary Education Dialogue.
 > - Submitted working papers might be used by facilitators of the academic writing workshops during the symposium as examples. In such use, the working papers will be anonymised. We understand that having your work publicly reviewed could be a source of potential discomfort. However, in our experience, grounding academic writing workshops in specific examples has been helpful in developing working papers into effective manuscripts. The symposium will strive to be a safe, non-judgemental space that enables participants to give and receive constructive feedback.
@@ -78,7 +82,7 @@ typograms: true
 > - Acceptance of abstracts or consideration of working papers for development into full manuscripts for the special issue does not guarantee publication in the special issue. The final call for the suitability of the manuscript lies with the editors of Contemporary Education Dialogue, and their decision will be final and binding.
 {: .block-danger }
 
-> ##### **References**
+> ##### **REFERENCES**
 >
 > - Ministry of Science and Technology, Government of India. (2021). <a href="https://dst.gov.in/sites/default/files/STIP_Doc_1.4_Dec2020.pdf" target="_blank">Science, Technology, and Innovation Policy version 1.4.</a> Retrieved July 16, 2024.
 > - Shepherd, M.D., Selden, A., & Selden, J. (2009). <a href="https://files.eric.ed.gov/fulltext/ED518599.pdf" target="_blank">Difficulties first-year university students have in reading their mathematics textbooks.</a> Technical Report. No. 2009-1. Department of Mathematics, Tennessee Technological University. Retrieved July 16, 2024.
