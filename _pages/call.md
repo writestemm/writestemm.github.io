@@ -5,7 +5,14 @@ title: Call for Abstracts
 description: Submit your Abstracts now!
 nav: true
 nav_order: 6
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
+
+{% include accordion.html %}
 
 >The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" is underway.
 
