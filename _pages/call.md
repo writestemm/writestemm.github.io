@@ -7,10 +7,10 @@ nav: true
 nav_order: 6
 accordion: 
   - title:  Concept Note
-    content: call1.md
+    content: doll1.md
  
   - title:  Call for Abstracts
-   content: call2.md
+   content: doll2.md
 
 ---
 
