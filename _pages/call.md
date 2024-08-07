@@ -7,14 +7,7 @@ nav: true
 nav_order: 6
 toc:
   beginning: true
-accordion: 
-  - title:  Concept Note
-    content: The science, technology, engineering, mathematics, and medicine (STEMM) ecosystem in India is increasingly recognizing the importance of teaching its learners and practitioners how to read and write within and across disciplines. For example, the government of India’s draft Science, Technology and Innovation Policy (STIP; 2021) declares an intention to introduce science communication courses at “all levels of education” (p. 44), and the incorporation of science communication skill sets (which presumably include reading and writing in different genres) across different levels of scientific training. Notably, for the STIP, ‘science communication’ is not limited to the transmission of scientific knowledge to non-expert audiences. Instead, the STIP offers a definition of science communication that comprises both science “outreach” and “inreach” (p. 43); while the former constitutes the communication of science to non-expert audiences through science popularization activities and science journalism, the latter includes communicating scientific findings to expert audiences. In other words, a contemporary learner and practitioner of STEMM would soon be expected to be trained in reading and writing skills that enable one to communicate effectively both within and beyond disciplinary silos.
-Other than policy considerations, reading and writing are important for learners & practitioners of STEMM to participate effectively in their disciplines: be it reading literature to identify research questions, reading textbooks as a part of their STEMM education, or to communicate their findings to other practitioners and to members of the public. And yet, there is evidence indicating STEMM learners’ and practitioners’ struggle with these skills. For example, in the context of mathematics education, it has been reported that undergraduate students of mathematics are unable to effectively read their textbooks, and that the difficulties they face in reading and comprehending these textbooks result primarily from the inefficacy of the reading strategies they employ (Shepherd et al., 2009). Thus, in addition to communication skills, training STEMM learners in reading and writing might benefit their engagement with their discipline.
-
 ---
-
-{% include accordion.html %}
 
 >The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" is underway.
 
