@@ -13,11 +13,14 @@ nav_order: 6
 	<div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/oct2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     	</div>
+</div>
+
+<div class="row mt-3">
 	<div class="col-sm mt-3 mt-md-0">
 	{% include figure.liquid loading="eager" path="assets/img/dec2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     	</div>
-</div>
-
-
+    	<div class="col-sm mt-3 mt-md-0">
 	{% include figure.liquid loading="eager" path="assets/img/jan252.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
 
