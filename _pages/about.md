@@ -6,7 +6,7 @@ subtitle:
 
 profiles:
  - align: right
-   image: prof_pic.jpg
+   image: 1.jpg
    content: about_1.md
    image_circular: true # crops the image to make it circular
   
@@ -16,7 +16,7 @@ profiles:
    image_circular: true # crops the image to make it circular
    
  - align: right
-   image: prof_pic3.jpeg
+   image: Campus.jpg
    content: about_3.md
    image_circular: true # crops the image to make it circular
 
