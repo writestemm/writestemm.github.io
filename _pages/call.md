@@ -11,7 +11,7 @@ toc:
 > The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" is underway.
 
 > ##### **POSTER**
-<div> {% include figure.liquid loading="eager" path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %} </div>
+<div> {% include figure.liquid loading="eager" path="assets/img/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %} </div>
 
 > ##### **CONCEPT NOTE**
 >
