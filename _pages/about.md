@@ -11,7 +11,7 @@ profiles:
    image_circular: false # crops the image to make it circular
   
  - align: left
-   image: prof_pic2.jpeg
+   image: Krea.jpg
    content: about_2.md
    image_circular: true # crops the image to make it circular
    
