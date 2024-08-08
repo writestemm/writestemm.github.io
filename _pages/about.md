@@ -3,13 +3,10 @@ layout: about
 title: About
 permalink: /
 subtitle: 
+images:
+  slider: true
 
 profiles:
- - align: right
-   image: 1.jpg
-   content: about_1.md
-   image_circular: false # crops the image to make it circular
-  
  - align: left
    image: Krea.jpg
    content: about_2.md
