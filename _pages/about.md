@@ -13,7 +13,7 @@ profiles:
  - align: left
    image: Krea.jpg
    content: about_2.md
-   image_circular: true # crops the image to make it circular
+   image_circular: false # crops the image to make it circular
    
  - align: right
    image: Campus.jpg
