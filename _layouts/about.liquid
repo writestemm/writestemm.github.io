@@ -30,7 +30,7 @@ layout: default
 <article>
 <hr>
 
-<div class="profile float-center">
+<div style="text-align: center">
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
 <swiper-slide>{% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.45}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}{% include figure.liquid loading="eager" path="assets/img/2.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 <swiper-slide>{% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.45}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}{% include figure.liquid loading="eager" path="assets/img/3.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
