@@ -5,6 +5,11 @@ permalink: /
 subtitle: 
 images:
   slider: true
+  
+carousels:
+  - images: 
+    - image: /assets/img/2r.jpeg
+    - image: /assets/img/3r.jpeg
 
 profiles:
  - align: right
