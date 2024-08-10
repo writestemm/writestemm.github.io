@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-featured-img: /assets/img/flowers.jpg
+featured-img: /assets/img/pattern1.jpg
 subtitle: 
 images:
   slider: true
