@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+featured-img: /assets/img/flowers.jpg
 subtitle: 
 images:
   slider: true
