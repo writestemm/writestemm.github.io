@@ -8,11 +8,6 @@ images:
 
 profiles:
  - align: right
-   image: Krea.jpg
-   content: about_2.md
-   image_circular: false # crops the image to make it circular
-   
- - align: right
    image: Campus.jpg
    content: about_3.md
    image_circular: false # crops the image to make it circular
