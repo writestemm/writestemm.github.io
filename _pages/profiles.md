@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: SD.jpg
+    image: SD1.png
     content: about_sayantan.md
     image_circular: false # crops the image to make it circular
     
