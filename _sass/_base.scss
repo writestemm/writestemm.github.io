@@ -1109,6 +1109,10 @@ swiper-container {
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
 
+.swiper-slide-active {
+    width: 50% !important;
+}
+
 .ps-root {
   .ps-algorithm {
     margin: 0.8em 0;
