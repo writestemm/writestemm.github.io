@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: 
 images:
-  slider: true
+  slider: false
   
 carousels:
   - images: 
