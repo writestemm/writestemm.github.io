@@ -4,12 +4,7 @@ title: About
 permalink: /
 subtitle: 
 images:
-  slider: false
-  
-carousels:
-  - images: 
-    - image: /assets/img/2r.jpeg
-    - image: /assets/img/3r.jpeg
+  slider: true
 
 profiles:
  - align: right
