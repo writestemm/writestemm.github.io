@@ -1679,3 +1679,12 @@ body.df-lightbox-open {
 .df-custom-fullscreen.df-fullscreen[backgroundcolor='transparent'] {
     background: gray !important
 }
+
+.marquee22{
+  color:DarkMagenta;
+  background-color:lightpink;
+  font-size:30px;
+  font-style:italic;
+  font-weight:600;
+  letter-spacing: 3px;
+}
