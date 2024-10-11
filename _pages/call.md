@@ -8,7 +8,7 @@ toc:
   sidebar: left
 ---
 
-> The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" is open.
+> The Call for Abstracts for the Online Symposium "Reflections on the Teaching of Reading and Writing in STEMM" has come to a close. We thank you for your thoughtful submissions.
 
 > ##### **POSTER**
 <div> {% include figure.liquid loading="eager" path="assets/img/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %} </div>
