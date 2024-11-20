@@ -6,10 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Speakers
-    permalink: /orgcom/
-  - title: divider
-  - title: Advisors
-    permalink: /orgcom/
+    permalink: /speakers/
   - title: divider
   - title: Organising Committee
     permalink: /orgcom/
