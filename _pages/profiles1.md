@@ -1,27 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
+permalink: /orgcom/
+title: Organizing Committee
 description: Members of the Organizing Committee
-tabs: true
 nav: true
 nav_order: 7
-
-{% tabs people %}
-
-{% tab participants %}
-
-Regular text
-
-{% endtab %}
-
-{% tab Advisors %}
-
-> A quote
-
-{% endtab %}
-
-{% tab Organizing Committee %}
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -42,8 +25,5 @@ profiles:
     content: about_vivek.md
     image_circular: false # crops the image to make it circular
 
-{% endtab %}
-
-{% endtabs %}
 
 ---
