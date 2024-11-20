@@ -3,8 +3,7 @@ layout: profiles
 permalink: /orgcom/
 title: Organizing Committee
 description: Members of the Organizing Committee
-nav: true
-nav_order: 7
+nav: false
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
