@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /speakers/
-title: Speakers
+permalink: /presenters/
+title: Presenters
 description: 
 nav: false
 

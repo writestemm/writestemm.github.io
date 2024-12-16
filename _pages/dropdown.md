@@ -5,8 +5,11 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Speakers
-    permalink: /speakers/
+  - title: Presenters
+    permalink: /presenters/
+  - title: divider
+  - title: Keynote Speaker
+    permalink: /keynote/
   - title: divider
   - title: Guests of Honour
     permalink: /honor/
