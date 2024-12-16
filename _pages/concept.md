@@ -8,11 +8,6 @@ toc:
   sidebar: left
 ---
 
-
-[//]: # > ##### **POSTER**
-<!--div> {% include figure.liquid loading="eager" path="assets/img/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %} </div-->
-
-
 > ##### **CONCEPT NOTE**
 >
 > The science, technology, engineering, mathematics, and medicine (STEMM) ecosystem in India is increasingly recognising the importance of teaching its learners and practitioners how to read and write within and across disciplines. For example, in addition to the National Education Policy (NEP; 2020) recognising foundational reading and writing skills as “basic learning requirements” (p. 08), the draft Science, Technology and Innovation Policy (STIP; 2021) declares an intention to introduce science communication courses at “all levels of education” (p. 44), and the incorporation of science communication skill sets (which presumably include reading and writing in different genres) across different levels of scientific training. Notably, for the STIP, ‘science communication’ is not limited to the transmission of scientific knowledge to non-expert audiences. Instead, the STIP offers a definition of science communication that comprises both science “outreach” and “inreach” (p. 43); while the former constitutes the communication of science to non-expert audiences through science popularisation activities and science journalism, the latter includes communicating scientific findings to expert audiences. In other words, a contemporary learner and practitioner of STEMM would soon be expected to be trained in reading and writing skills that enable one to communicate effectively both within and beyond disciplinary silos.
