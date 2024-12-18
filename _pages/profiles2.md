@@ -63,6 +63,11 @@ profiles:
     image_circular: true # crops the image to make it circular
     
   - align: right
+    image: deepa.jpeg
+    content: about_deepa.md
+    image_circular: true # crops the image to make it circular
+    
+  - align: left
     image: saurabh.jpg
     content: about_saurabh.md
     image_circular: true # crops the image to make it circular
