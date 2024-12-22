@@ -1,4 +1,4 @@
-<b>Dr Soumya Dey</b> is a mathematician broadly interested in Geometry and Topology. He has a keen interest in mathematics education at undergraduate and school level.
+<b>Soumya Dey</b> is a mathematician broadly interested in Geometry and Topology. He has a keen interest in mathematics education at undergraduate and school level.
 
 Dr Dey graduated with a PhD in Mathematics from IISER Mohali in 2018, after completing BSc (Hons) in Mathematics from St Xavier’s College, Kolkata, and MSc in Mathematics from RKM Vivekananda University, Belur. Thereafter, he worked as a postdoctoral fellow at IISER Bhopal, the Institute of Mathematical Sciences, Chennai and Chennai Mathematical Institute, Kelambakkam successively, before joining Krea University in 2022.
 
