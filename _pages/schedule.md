@@ -3,8 +3,13 @@ layout: page
 permalink: /schedule/
 title: Schedule
 nav: true
+tabs: true
 nav_order: 6
 ---
+
+{% tabs something-else %}
+
+{% tab something-else Symposium Timeline %}
 
 <div class="row mt-3">
     	<div class="col-sm mt-3 mt-md-0">
@@ -24,3 +29,24 @@ nav_order: 6
 	</div>
 </div>
 
+{% endtab %}
+
+{% tab something-else Day 1 %}
+
+Day 1 Schedule
+
+{% endtab %}
+
+{% tab something-else Day 2 %}
+
+Day 2 Schedule
+
+{% endtab %}
+
+{% tab something-else Day 3 %}
+
+Day 3 Schedule
+
+{% endtab %}
+
+{% endtabs %}
