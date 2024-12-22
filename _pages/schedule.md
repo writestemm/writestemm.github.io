@@ -7,9 +7,9 @@ tabs: true
 nav_order: 6
 ---
 
-{% tabs something-else %}
+{% tabs schedule %}
 
-{% tab something-else Symposium Timeline %}
+{% tab schedule Symposium Timeline %}
 
 <div class="row mt-3">
     	<div class="col-sm mt-3 mt-md-0">
@@ -31,19 +31,19 @@ nav_order: 6
 
 {% endtab %}
 
-{% tab something-else Day 1 %}
+{% tab schedule Day 1 %}
 
 Day 1 Schedule
 
 {% endtab %}
 
-{% tab something-else Day 2 %}
+{% tab schedule Day 2 %}
 
 Day 2 Schedule
 
 {% endtab %}
 
-{% tab something-else Day 3 %}
+{% tab schedule Day 3 %}
 
 Day 3 Schedule
 
