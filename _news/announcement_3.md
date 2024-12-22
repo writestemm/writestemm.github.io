@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [Symposium Booklet](https://writestemm.github.io/assets/pdf/Booklet.pdf) is released!
+The [Call for Abstracts Booklet](https://writestemm.github.io/assets/pdf/Booklet.pdf) is released!
