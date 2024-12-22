@@ -57,7 +57,31 @@ nav_order: 6
 
 {% tab schedule Day 2 %}
 
-Day 2 Schedule
+<h2 style="color:DarkMagenta;"><b>Day 2 - 18th January 2025</b></h2>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/day21.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/day22.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/day23.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/day24.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 {% endtab %}
 
