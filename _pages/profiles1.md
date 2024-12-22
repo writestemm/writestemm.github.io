@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /orgcom/
-title: Organizing Committee
-description: Members of the Organizing Committee
+title: Organising Committee
+description: Members of the Organising Committee
 nav: false
 
 profiles:
