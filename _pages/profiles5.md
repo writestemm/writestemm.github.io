@@ -18,7 +18,7 @@ profiles:
     content: about_madhura.md
     image_circular: true # crops the image to make it circular
     
-  - align: left
+  - align: right
     image: NM.png
     content: about_neha.md
     image_circular: true # crops the image to make it circular
@@ -28,7 +28,7 @@ profiles:
     content: about_sayantan.md
     image_circular: true # crops the image to make it circular
     
-  - align: left
+  - align: right
     image: VT.png
     content: about_vivek.md
     image_circular: true # crops the image to make it circular
