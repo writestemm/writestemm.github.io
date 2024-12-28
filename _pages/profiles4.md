@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: Alcock3.png
+    image: 5.png
     content: about_laraabstract.md
     image_circular: false # crops the image to make it circular
 

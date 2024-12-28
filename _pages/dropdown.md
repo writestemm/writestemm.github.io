@@ -14,6 +14,9 @@ children:
   - title: Guests of Honour
     permalink: /honor/
   - title: divider
+  - title: Workshop Facilitators
+    permalink: /workshoppers/
+  - title: divider
   - title: Organising Committee
     permalink: /orgcom/
 ---
