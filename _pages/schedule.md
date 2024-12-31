@@ -211,4 +211,19 @@ nav_order: 6
 
 {% endtab %}
 
+{% tab Posters %}
+
+<h2 style="color:DarkMagenta;"><b>Schedule</b></h2>
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/02.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/03.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/010.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/04.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/05.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/06.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
+{% endtab %}
+
 {% endtabs %}
