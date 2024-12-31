@@ -211,7 +211,7 @@ nav_order: 6
 
 {% endtab %}
 
-{% tab Posters %}
+{% tab schedule Posters %}
 
 <h2 style="color:DarkMagenta;"><b>Schedule</b></h2>
 
@@ -222,6 +222,8 @@ nav_order: 6
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/04.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/05.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/06.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/07.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/08.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 {% endtab %}
