@@ -215,8 +215,9 @@ nav_order: 6
 
 {% tab schedule Posters %}
 
-<h2 style="color:DarkMagenta;"><b>Symosium Schedule</b></h2>
+
 <div class="profile float-left">
+<h2 style="color:DarkMagenta;"><b>Symosium Schedule Day 1</b></h2>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
 	<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
@@ -227,7 +228,9 @@ nav_order: 6
     </div>
     </div>
     </div>
-    <div class="profile float-left">
+    
+    <div class="profile float-right">
+    <h2 style="color:DarkMagenta;"><b>Symosium Schedule Day 2</b></h2>
     <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
 	<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
