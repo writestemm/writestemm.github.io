@@ -225,21 +225,24 @@ nav_order: 6
 	<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/03.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 	<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/010.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 	</swiper-container>
-    </div>
-    </div>
-    </div>
+</div>
+</div>
+</div>
     
-    <div class="profile float-right">
-    <h2 style="color:DarkMagenta;"><b>Symosium Schedule Day 2</b></h2>
-    <div class="row mt-3">
+    
+    
+    
+<div class="profile float-right">
+<h2 style="color:DarkMagenta;"><b>Symosium Schedule Day 2</b></h2>
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
 	<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
 	<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/04.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 	<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/05.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 	<swiper-slide>{% include figure.liquid loading="eager" path="assets/img/06.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 	</swiper-container>
-    </div>
-    </div>
+</div>
+</div>
 </div>
 
 
