@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /booklet/
 title: Symposium Booklet
 nav: true
 nav_order: 7
