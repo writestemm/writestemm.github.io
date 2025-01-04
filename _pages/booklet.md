@@ -8,8 +8,6 @@ images:
   slider: true
 ---
 
-<h2 style="color:DarkMagenta;"><b>Symosium Booklet</b></h2>
-
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/B1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/B2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
